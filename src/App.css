@@ -1,0 +1,65 @@
+
+.App {
+  text-align: center;
+  
+}
+
+.logo{
+  margin-top: 60px;
+}
+.logo img{
+  height: 150px;
+  width: 160px;
+}
+
+.result{
+  margin-right: 45px;
+  margin-top: 20px ;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+.result1{
+  justify-content: center;
+  text-align: center;
+  margin:112px auto 0px auto;
+}
+.result12{
+  margin-right: 0px;
+}
+.inputs{
+  width: 220px;
+  height: 20px;
+  border-radius:120px;
+}
+::placeholder{
+  padding-left: 10px;
+}
+.btn{
+  margin: 30px 20px 0px 0px;
+  border-radius: 120px;
+  padding: 10px;
+  color: #000000 ;
+  border-color: #000000;
+  background-color: #f7931a;
+  cursor: pointer;
+}
+.btn1{
+  margin: 30px 0px 0px 0px;
+  border-radius: 120px;
+  padding: 10px;
+  color: #000000 ;
+  border-color: #000000;
+  background-color: #f7931a;
+  cursor: pointer;
+}
+
+.btn:hover, .btn1:hover{
+  background-color: #92A0AB;
+}
+
+@media (max-width: 1024px) {   
+  *{
+    max-height: 1200px;
+  }
+}

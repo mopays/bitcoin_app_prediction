@@ -1,0 +1,25 @@
+*{
+  max-height: 610px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  
+  background-image: url(https://w0.peakpx.com/wallpaper/171/471/HD-wallpaper-bitcoin-carbon-logo-grunge-art-carbon-background-creative-bitcoin-black-logo-cryptocurrency-bitcoin-logo-bitcoin.jpg) ;
+  object-fit: contain;
+  height:700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color:#ffff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
